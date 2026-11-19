@@ -1,3 +1,6 @@
+# Nome:
+João Pedro Souza dos Anjos
+
 # Controle de Combustível
 
 Aplicativo Flutter para registrar abastecimentos de um veículo e acompanhar gastos e consumo ao longo do tempo.
