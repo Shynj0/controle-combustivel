@@ -70,4 +70,4 @@ Adicione as imagens em `docs/screenshots/` e referencie aqui:
 
 | Cadastro do veículo | Novo abastecimento | Histórico | Dashboard-1 | Dashboard-2 |
 |---|---|---|---|---|
-| ![](docs/screenshots/cadastro-veiculo.jpeg) | ![](docs/screenshots/novo-abastecimento.jpeg) | ![](docs/screenshots/abastecimentos) | ![](docs/screenshots/dashboard1.jpeg) | ![](docs/screenshots/dashboard2.jpeg) |
+| ![](docs/screenshots/cadastro-veiculo.jpeg) | ![](docs/screenshots/novo-abastecimento.jpeg) | ![](docs/screenshots/abastecimentos.jpeg) | ![](docs/screenshots/dashboard1.jpeg) | ![](docs/screenshots/dashboard2.jpeg) |
